@@ -1,0 +1,13 @@
+{
+  "name": "kubamarket",
+  "version": "1.0.0",
+  "description": "KUBAMARKET - Магазин ножей",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["knife", "store", "market", "kubamarket"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
